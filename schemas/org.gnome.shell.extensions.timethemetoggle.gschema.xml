@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<schemalist>
+	<schema id="org.gnome.shell.extensions.timethemetoggle" path="/org/gnome/shell/extensions/timethemetoggle/">
+        <key name="light-theme-start-time" type="s">
+            <default>"08:00"</default>
+            <summary>Light theme start time</summary>
+            <description>Time to end the dark theme and start the light theme</description>
+        </key>
+        <key name="dark-theme-start-time" type="s">
+            <default>"16:00"</default>
+            <summary>Dark theme start time</summary>
+            <description>Time to end the light theme and start the dark theme</description>
+        </key>
+	</schema>
+</schemalist>

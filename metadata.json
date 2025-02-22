@@ -1,0 +1,12 @@
+{
+    "name": "Time Theme Toggle",
+    "description": "Toggle between light and dark theme based on the time of the day. Select start and end of light theme.",
+    "shell-version": [
+        "43",
+        "42.9"
+    ],
+    "url": "https://github.com/inirudebwoy/timethemetoggle",
+    "uuid": "timethemetoggle@klichx.dev",
+    "settings-schema": "org.gnome.shell.extensions.timethemetoggle",
+    "gettext-domain": "timethemetoggle@klichx.dev"
+}
